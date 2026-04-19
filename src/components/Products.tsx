@@ -2,7 +2,7 @@ import { collection, doc, getDoc, getDocs } from "firebase/firestore";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom"
 import { db } from "../firebaseConfig";
-import Slider from "react-slick";
+import { Slider } from "../reactSlickSlider";
 
 function Products() {
 
