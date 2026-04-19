@@ -84,7 +84,7 @@ function ContactUs() {
                 <span className="flex text-xl"> <IoPersonCircle className="mr-3" size={20} /> Rohidas Dalvi (CEO)</span>
                 <a href="Phone: 8452855328"><span className="flex text-xl"> <FaPhone className="mr-3" size={15} />Call: 8452855328</span></a>
                 <a href="Phone: 9869774328"><span className="flex text-xl"> <FaPhone className="mr-3" size={15} />Call: 9869774328</span></a>
-                <a href="Email: rrtelecommunication30@gmail.com"><span className="flex text-xl"> <MdAlternateEmail className="mr-3" size={15} />Email: rrtelecommunication30@gmail.com</span></a>
+                <a href="Email: contact@rrtelecommunications.com"><span className="flex text-xl"> <MdAlternateEmail className="mr-3" size={15} />Email:  contact@rrtelecommunications.com</span></a>
             </div>
         </div>
     );
